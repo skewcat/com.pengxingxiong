@@ -4,5 +4,5 @@ pymongo
 scikit-learn==0.19
 pykafka
 scipy
-torch==0.3.1
+torch==2.2.0
 py4j
